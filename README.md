@@ -2,8 +2,7 @@
 
 > **Skills demonstrated:** SIEM platforms (Splunk/Sentinel logic) · Threat detection · Incident Response · MITRE ATT&CK mapping · NIST 800-53 / ISO 27001 / ASD Essential Eight compliance
 
-A production-grade, multi-format Security Information and Event Management (SIEM) log analysis engine built in pure Python. Designed to mirror the core logic used in enterprise tools like **Splunk**, **Microsoft Sentinel**, and **IBM QRadar** — the skills most sought after in Australian and UK visa-sponsored cybersecurity roles.
-
+A production-grade, multi-format Security Information and Event Management (SIEM) log analysis engine built in pure Python. Designed to mirror the core logic used in enterprise tools like **Splunk**, **Microsoft Sentinel**, and **IBM QRadar** — 
 ---
 
 ## 📋 Why This Project
