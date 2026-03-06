@@ -8,8 +8,6 @@ A production-grade, multi-format Security Information and Event Management (SIEM
 
 ## 📋 Why This Project
 
-Analysing job listings on SEEK, Indeed AU, and UK Visa Jobs reveals the top required skills for sponsored cybersecurity roles are:
-
 | Skill | Where Used in This Project |
 |---|---|
 | SIEM platforms (Splunk / Sentinel) | Core correlation engine mirrors Splunk SPL logic |
